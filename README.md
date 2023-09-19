@@ -26,4 +26,4 @@ This website is built using the following technologies:
 HTML5
 CSS3
 JavaScript
-Bootstrap (optional, if used for styling)
+Bootstrap 
